@@ -1,5 +1,5 @@
 # To run:
-To run this program, please open the <code>main.py</code> file in the <code>src</code> folder and run it.
+To run this program, please clone this repository, then open the <code>main.py</code> file in the <code>src</code> folder and run it.
 
 # Before running:
 1. In order for the program to work, there must be a <code>PNG</code> file in the <code>raw image</code> folder
